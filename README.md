@@ -89,8 +89,6 @@ Software development and controller channel mapping:
 docs/DEVELOPMENT.md
 ```
 
-The complete project report can also be stored in the `docs/` folder.
-
 ## Demonstration Videos
 
 Driving Demonstration:
