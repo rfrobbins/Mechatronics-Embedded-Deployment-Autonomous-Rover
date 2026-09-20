@@ -60,7 +60,7 @@ To edit it directly on the Jetson:
 nano jetsonfinal.py
 ```
 
-You can also SSH into the Jetson and edit the file using your preferred development environment.
+You can also SSH into the Jetson and edit the file using a preferred coding platform.
 
 ### Arduino
 
